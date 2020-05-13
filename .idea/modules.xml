@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SmallMap.iml" filepath="$PROJECT_DIR$/SmallMap.iml" group="SmallMap" />
+      <module fileurl="file://$PROJECT_DIR$/Spickphotos/Spickphotos.iml" filepath="$PROJECT_DIR$/Spickphotos/Spickphotos.iml" group="SmallMap/Spickphotos" />
+      <module fileurl="file://$PROJECT_DIR$/alarm/alarm.iml" filepath="$PROJECT_DIR$/alarm/alarm.iml" group="SmallMap/alarm" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="SmallMap/app" />
+      <module fileurl="file://$PROJECT_DIR$/easeui/easeui.iml" filepath="$PROJECT_DIR$/easeui/easeui.iml" group="SmallMap/easeui" />
+      <module fileurl="file://$PROJECT_DIR$/map/map.iml" filepath="$PROJECT_DIR$/map/map.iml" group="SmallMap/map" />
+      <module fileurl="file://$PROJECT_DIR$/timepick/timepick.iml" filepath="$PROJECT_DIR$/timepick/timepick.iml" group="SmallMap/timepick" />
+    </modules>
+  </component>
+</project>
